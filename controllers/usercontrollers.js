@@ -71,4 +71,4 @@ const sighnIn = async(req,res) => {
 
 module.exports={sighnUp,sighnIn}
 
-
+ 
